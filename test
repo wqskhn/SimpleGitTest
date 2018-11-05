@@ -1,3 +1,4 @@
 hello world when you commit changes to files Git stores a reference of what the files look loke at that  moment. if a file isn't changed it isn't stored again. 
-4. Each client has a complete history of all changes stored locally. The client can also access all changes made to the files historically with a simple command.
+4. Each client has a complete history of all changes stored locally. The client can also access all changes made to the files historically with a simple command. 
+hello again
 
