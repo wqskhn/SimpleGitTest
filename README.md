@@ -18,4 +18,5 @@ Basic Concept:
   diff --cached
   commit -m
   
-  
+  fetch  :Gets data from the remote, but it doesn't merge changes wiht your work
+  pull   : pulls all changes and saves them to your directory
