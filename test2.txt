@@ -1,3 +1,5 @@
- i am new to git 
-confuse and lost >>
+I am new to git. 
+Confuse and lost.
+I am add new lines to test2 file.
+It is quite wersome if people are moving to e-cigrette as replacement to tobacco cigrette.
 
